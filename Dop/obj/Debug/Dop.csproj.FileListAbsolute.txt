@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\bin\Debug\Dop.exe.config
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\bin\Debug\Dop.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\bin\Debug\Dop.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\obj\Debug\Dop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\obj\Debug\Dop.Properties.Resources.resources
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\obj\Debug\Dop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\obj\Debug\Dop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\obj\Debug\Dop.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\obj\Debug\Dop.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Dop\obj\Debug\Dop.Form1.resources
