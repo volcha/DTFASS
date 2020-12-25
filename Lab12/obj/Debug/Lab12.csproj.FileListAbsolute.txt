@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\bin\Debug\Lab12.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\bin\Debug\Lab12.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\obj\Debug\Lab12.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab12\obj\Debug\Lab12.pdb
