@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\bin\Debug\Lab15.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\bin\Debug\Lab15.pdb
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\obj\Debug\Lab15.Form1.resources
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\obj\Debug\Lab15.exe
+C:\Users\User\Desktop\Nata\Uni\OOPC#\Lab15\obj\Debug\Lab15.pdb
